@@ -1,5 +1,4 @@
 <script setup>
-import { onMounted } from 'vue';
 
 
 // макрос defineProps используется внутри script setup
